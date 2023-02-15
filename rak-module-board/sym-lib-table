@@ -1,0 +1,6 @@
+(sym_lib_table
+  (lib (name "power")(type "KiCad")(uri "${KIPRJMOD}/power.kicad_sym")(options "")(descr ""))
+  (lib (name "power.vbat_sx_sym")(type "KiCad")(uri "${KIPRJMOD}/power.vbat_sx_sym.kicad_sym")(options "")(descr ""))
+  (lib (name "2023-02-13_19-53-24")(type "Legacy")(uri "C:/Users/boris/Downloads/ul_PE42359SCAA-Z/KiCAD/2023-02-13_19-53-24/2023-02-13_19-53-24.lib")(options "")(descr ""))
+  (lib (name "2023-02-14_08-54-43")(type "Legacy")(uri "C:/Users/boris/Downloads/ul_NRF52840-QIAA-R/KiCAD/2023-02-14_08-54-43/2023-02-14_08-54-43.lib")(options "")(descr ""))
+)
