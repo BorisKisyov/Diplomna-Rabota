@@ -1,4 +1,4 @@
-Function Decoder(bytes, port) 
+function Decoder(bytes, port) 
 {
   var decoded = {};
   
